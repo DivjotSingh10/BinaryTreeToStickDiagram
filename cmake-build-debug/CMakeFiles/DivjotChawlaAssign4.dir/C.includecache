@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/CLionProjects/DivjotChawlaAssign4/BinaryST.c
+stdio.h
+-
+stdlib.h
+-
+limits.h
+-
+string.h
+-
+BinaryST.h
+C:/CLionProjects/DivjotChawlaAssign4/BinaryST.h
+
+C:/CLionProjects/DivjotChawlaAssign4/BinaryST.h
+
+C:/CLionProjects/DivjotChawlaAssign4/main.c
+stdio.h
+-
+stdlib.h
+-
+BinaryST.h
+C:/CLionProjects/DivjotChawlaAssign4/BinaryST.h
+string.h
+-
+
